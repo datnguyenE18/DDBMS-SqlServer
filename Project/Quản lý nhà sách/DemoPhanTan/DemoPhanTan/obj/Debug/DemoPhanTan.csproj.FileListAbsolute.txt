@@ -1,0 +1,328 @@
+F:\My Project\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe.config
+F:\My Project\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe
+F:\My Project\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.pdb
+F:\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Form1.resources
+F:\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Properties.Resources.resources
+F:\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csproj.GenerateResource.Cache
+F:\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.exe
+F:\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.pdb
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe.config
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.pdb
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.dll
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.pdb
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.pdb
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csprojResolveAssemblyReference.cache
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChiNhanh.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChucVu.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonBan.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonNhap.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_DangNhap.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonBan.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonNhap.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Ke.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Khu.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Main.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NhanVien.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NXB.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_PhanCong.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QLSach.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TacGia.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TheLoai.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.FrmDangNhapSite.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Properties.Resources.resources
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csproj.GenerateResource.Cache
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.exe
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.pdb
+E:\zzzMore\My Project\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe.config
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.exe
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.pdb
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.pdb
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csprojResolveAssemblyReference.cache
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChiNhanh.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChucVu.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonBan.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonNhap.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_DangNhap.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonBan.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonNhap.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Ke.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Khu.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Main.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NhanVien.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NXB.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_PhanCong.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QLSach.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TacGia.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TheLoai.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.FrmDangNhapSite.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Properties.Resources.resources
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csproj.GenerateResource.Cache
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe.config
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.exe
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.pdb
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.pdb
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.dll
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.dll
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.pdb
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.pdb
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csprojResolveAssemblyReference.cache
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChiNhanh.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChucVu.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonBan.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonNhap.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_DangNhap.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonBan.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonNhap.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Ke.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Khu.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Main.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NhanVien.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NXB.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_PhanCong.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QLSach.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TacGia.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TheLoai.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frmDangNhapSite.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Properties.Resources.resources
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csproj.GenerateResource.Cache
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_BanHang.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe.config
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.exe
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.pdb
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.pdb
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_BanHang.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChiNhanh.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChucVu.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonBan.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonNhap.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_DangNhap.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonBan.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonNhap.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Ke.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Khu.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Main.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NhanVien.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NXB.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_PhanCong.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QLSach.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TacGia.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TheLoai.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frmDangNhapSite.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Properties.Resources.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csproj.GenerateResource.Cache
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.FrmChuyenNhanVien.resources
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csprojResolveAssemblyReference.cache
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe.config
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.exe
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.pdb
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.pdb
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.dll
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.dll
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.pdb
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.pdb
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csprojResolveAssemblyReference.cache
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_BanHang.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChiNhanh.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChucVu.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonBan.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonNhap.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_DangNhap.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonBan.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonNhap.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Ke.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Khu.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Main.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NhanVien.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NXB.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_PhanCong.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QLSach.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TacGia.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TheLoai.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.FrmChuyenNhanVien.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frmDangNhapSite.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Properties.Resources.resources
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csproj.GenerateResource.Cache
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe.config
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.exe
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.pdb
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.pdb
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.dll
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.dll
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.pdb
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.pdb
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csprojResolveAssemblyReference.cache
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_BanHang.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChiNhanh.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChucVu.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonBan.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonNhap.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_DangNhap.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonBan.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonNhap.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Ke.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Khu.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Main.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NhanVien.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NXB.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_PhanCong.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QLSach.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TacGia.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TheLoai.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.FrmChuyenNhanVien.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frmDangNhapSite.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Properties.Resources.resources
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csproj.GenerateResource.Cache
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Frm_NhapSach.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe.config
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.exe
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.pdb
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.pdb
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.dll
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.pdb
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csprojResolveAssemblyReference.cache
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_BanHang.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChiNhanh.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChucVu.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonBan.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonNhap.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_DangNhap.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonBan.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonNhap.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Ke.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Khu.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Main.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NhanVien.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NXB.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_PhanCong.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QLSach.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TacGia.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TheLoai.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.FrmChuyenNhanVien.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frmDangNhapSite.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Frm_NhapSach.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Properties.Resources.resources
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csproj.GenerateResource.Cache
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QuanLyDIC.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe.config
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.exe
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.pdb
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.pdb
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.dll
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.dll
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.pdb
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.pdb
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csprojResolveAssemblyReference.cache
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_BanHang.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChiNhanh.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChucVu.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonBan.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonNhap.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_DangNhap.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonBan.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonNhap.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Ke.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Khu.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Main.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NhanVien.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NXB.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_PhanCong.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QLSach.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TacGia.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TheLoai.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.FrmChuyenNhanVien.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frmDangNhapSite.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Frm_NhapSach.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QuanLyDIC.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Frm_ThongKeDonHang.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Frm_ThongKeHoaDon.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Properties.Resources.resources
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csproj.GenerateResource.Cache
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe.config
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.exe
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.pdb
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.pdb
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.dll
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csprojResolveAssemblyReference.cache
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_BanHang.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChiNhanh.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChucVu.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonBan.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonNhap.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_DangNhap.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonBan.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonNhap.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Ke.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Khu.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Main.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NhanVien.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NXB.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_PhanCong.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QLSach.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TacGia.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TheLoai.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.FrmChuyenNhanVien.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frmDangNhapSite.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Frm_NhapSach.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QuanLyDIC.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Frm_ThongKeDonHang.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Frm_ThongKeHoaDon.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Properties.Resources.resources
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csproj.GenerateResource.Cache
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe.config
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.exe
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.pdb
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.exe
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\bin\Debug\DemoPhanTan.pdb
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.dll
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.dll
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\bin\Debug\BALayer.pdb
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\bin\Debug\DBLayer.pdb
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csprojResolveAssemblyReference.cache
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_BanHang.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChiNhanh.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_ChucVu.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonBan.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_CTHoaDonNhap.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_DangNhap.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonBan.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_HoaDonNhap.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Ke.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Khu.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_Main.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NhanVien.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_NXB.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_PhanCong.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QLSach.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TacGia.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_TheLoai.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.FrmChuyenNhanVien.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frmDangNhapSite.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Frm_NhapSach.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.frm_QuanLyDIC.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Frm_ThongKeDonHang.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Frm_ThongKeHoaDon.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.Properties.Resources.resources
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DemoPhanTan\obj\Debug\DemoPhanTan.csproj.GenerateResource.Cache

@@ -1,0 +1,70 @@
+E:\zzzMore\My Project\DemoPhanTan\BALayer\bin\Debug\BALayer.dll
+E:\zzzMore\My Project\DemoPhanTan\BALayer\bin\Debug\BALayer.pdb
+E:\zzzMore\My Project\DemoPhanTan\BALayer\bin\Debug\DBLayer.dll
+E:\zzzMore\My Project\DemoPhanTan\BALayer\bin\Debug\DBLayer.pdb
+E:\zzzMore\My Project\DemoPhanTan\BALayer\obj\Debug\BALayer.dll
+E:\zzzMore\My Project\DemoPhanTan\BALayer\obj\Debug\BALayer.pdb
+E:\zzzMore\My Project\DemoPhanTan\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\BALayer\bin\Debug\BALayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\BALayer\bin\Debug\BALayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\BALayer\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\BALayer\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\BALayer\obj\Debug\BALayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\BALayer\obj\Debug\BALayer.pdb
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\BALayer\obj\Debug\BALayer.dll
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\BALayer.dll
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\BALayer.pdb
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\DBLayer.dll
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\DBLayer.pdb
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\BALayer\obj\Debug\BALayer.pdb
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\BALayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\BALayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\obj\Debug\BALayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\obj\Debug\BALayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\BALayer.dll
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\BALayer.pdb
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\DBLayer.dll
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\bin\Debug\DBLayer.pdb
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\obj\Debug\BALayer.dll
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\obj\Debug\BALayer.pdb
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\BALayer.dll
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\BALayer.pdb
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\DBLayer.dll
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\DBLayer.pdb
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\obj\Debug\BALayer.dll
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\obj\Debug\BALayer.pdb
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\BALayer.dll
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\BALayer.pdb
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\obj\Debug\BALayer.dll
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\obj\Debug\BALayer.pdb
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\BALayer.dll
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\BALayer.pdb
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\DBLayer.dll
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\bin\Debug\DBLayer.pdb
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\obj\Debug\BALayer.dll
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\obj\Debug\BALayer.pdb
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\BALayer\bin\Debug\BALayer.dll
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\BALayer\bin\Debug\BALayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\BALayer\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\BALayer\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\BALayer\obj\Debug\BALayer.dll
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\BALayer\obj\Debug\BALayer.pdb
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\BALayer\bin\Debug\BALayer.dll
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\BALayer\bin\Debug\BALayer.pdb
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\BALayer\bin\Debug\DBLayer.dll
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\BALayer\bin\Debug\DBLayer.pdb
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\BALayer\obj\Debug\BALayer.dll
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\BALayer\obj\Debug\BALayer.pdb

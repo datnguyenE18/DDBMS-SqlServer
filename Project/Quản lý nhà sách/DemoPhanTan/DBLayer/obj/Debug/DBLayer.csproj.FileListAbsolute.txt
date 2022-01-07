@@ -1,0 +1,42 @@
+E:\zzzMore\My Project\DemoPhanTan\DBLayer\bin\Debug\DBLayer.dll
+E:\zzzMore\My Project\DemoPhanTan\DBLayer\bin\Debug\DBLayer.pdb
+E:\zzzMore\My Project\DemoPhanTan\DBLayer\obj\Debug\DBLayer.dll
+E:\zzzMore\My Project\DemoPhanTan\DBLayer\obj\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DBLayer\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DBLayer\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DBLayer\obj\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan_XongQLSach\DemoPhanTan\DBLayer\obj\Debug\DBLayer.pdb
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DBLayer\bin\Debug\DBLayer.dll
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DBLayer\bin\Debug\DBLayer.pdb
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DBLayer\obj\Debug\DBLayer.dll
+E:\PhanTan\DemoPhanTan111\DemoPhanTan\DBLayer\obj\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DBLayer\obj\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DBLayer\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DBLayer\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DBLayer\obj\Debug\DBLayer.pdb
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DBLayer\bin\Debug\DBLayer.dll
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DBLayer\bin\Debug\DBLayer.pdb
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DBLayer\obj\Debug\DBLayer.dll
+E:\Phân Tán\Ver-1\DemoPhanTan111\DemoPhanTan111\DemoPhanTan\DBLayer\obj\Debug\DBLayer.pdb
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\bin\Debug\DBLayer.dll
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\bin\Debug\DBLayer.pdb
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\obj\Debug\DBLayer.dll
+E:\Phân Tán\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\obj\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\obj\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\obj\Debug\DBLayer.pdb
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\bin\Debug\DBLayer.dll
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\bin\Debug\DBLayer.pdb
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\obj\Debug\DBLayer.dll
+E:\Phân Tán\BacNew\PhanTanNgay16-06-2016\PhanTanNgay16-06-2016\DemoPhanTan\DBLayer\obj\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DBLayer\bin\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DBLayer\bin\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DBLayer\obj\Debug\DBLayer.dll
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DBLayer\obj\Debug\DBLayer.pdb
+C:\Users\Bean\Desktop\DemoPhanTanNgay19-06-2016-12-54\DemoPhanTan\DBLayer\obj\Debug\DBLayer.csprojResolveAssemblyReference.cache
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DBLayer\bin\Debug\DBLayer.dll
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DBLayer\bin\Debug\DBLayer.pdb
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DBLayer\obj\Debug\DBLayer.csprojResolveAssemblyReference.cache
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DBLayer\obj\Debug\DBLayer.dll
+E:\Database Distributed\DemoNopThay\Project\DemoPhanTan\DBLayer\obj\Debug\DBLayer.pdb

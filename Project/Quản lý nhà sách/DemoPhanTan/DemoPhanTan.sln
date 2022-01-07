@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPhanTan", "DemoPhanTan\DemoPhanTan.csproj", "{BF9B731C-82A7-46D3-B999-C9ACA37E286F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBLayer", "DBLayer\DBLayer.csproj", "{9FF8781E-59D7-4BC1-A130-ED3AD137F1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BALayer", "BALayer\BALayer.csproj", "{B2CB5A07-9C1F-442A-B6F7-CE148A175EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9B731C-82A7-46D3-B999-C9ACA37E286F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9B731C-82A7-46D3-B999-C9ACA37E286F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9B731C-82A7-46D3-B999-C9ACA37E286F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9B731C-82A7-46D3-B999-C9ACA37E286F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF8781E-59D7-4BC1-A130-ED3AD137F1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF8781E-59D7-4BC1-A130-ED3AD137F1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF8781E-59D7-4BC1-A130-ED3AD137F1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF8781E-59D7-4BC1-A130-ED3AD137F1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CB5A07-9C1F-442A-B6F7-CE148A175EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CB5A07-9C1F-442A-B6F7-CE148A175EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CB5A07-9C1F-442A-B6F7-CE148A175EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CB5A07-9C1F-442A-B6F7-CE148A175EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
